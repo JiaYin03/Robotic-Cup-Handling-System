@@ -1,0 +1,1 @@
+This project successfully shows how a real-time sensor system can be built using the Rust programming language to handle robotic cup movement smoothly and efficiently. The system was able to simulate how cups move, detect issues like overheating or low weight, and send data quickly and reliably to the actuator. 
